@@ -1,0 +1,14 @@
+/home/michael/Documents/C#/TodoApp/bin/Debug/netcoreapp2.2/TodoApp.deps.json
+/home/michael/Documents/C#/TodoApp/bin/Debug/netcoreapp2.2/TodoApp.runtimeconfig.json
+/home/michael/Documents/C#/TodoApp/bin/Debug/netcoreapp2.2/TodoApp.runtimeconfig.dev.json
+/home/michael/Documents/C#/TodoApp/bin/Debug/netcoreapp2.2/TodoApp.dll
+/home/michael/Documents/C#/TodoApp/bin/Debug/netcoreapp2.2/TodoApp.pdb
+/home/michael/Documents/C#/TodoApp/obj/Debug/netcoreapp2.2/TodoApp.csprojAssemblyReference.cache
+/home/michael/Documents/C#/TodoApp/obj/Debug/netcoreapp2.2/TodoApp.csproj.CoreCompileInputs.cache
+/home/michael/Documents/C#/TodoApp/obj/Debug/netcoreapp2.2/TodoApp.RazorAssemblyInfo.cache
+/home/michael/Documents/C#/TodoApp/obj/Debug/netcoreapp2.2/TodoApp.RazorAssemblyInfo.cs
+/home/michael/Documents/C#/TodoApp/obj/Debug/netcoreapp2.2/TodoApp.AssemblyInfoInputs.cache
+/home/michael/Documents/C#/TodoApp/obj/Debug/netcoreapp2.2/TodoApp.AssemblyInfo.cs
+/home/michael/Documents/C#/TodoApp/obj/Debug/netcoreapp2.2/TodoApp.RazorTargetAssemblyInfo.cache
+/home/michael/Documents/C#/TodoApp/obj/Debug/netcoreapp2.2/TodoApp.dll
+/home/michael/Documents/C#/TodoApp/obj/Debug/netcoreapp2.2/TodoApp.pdb
