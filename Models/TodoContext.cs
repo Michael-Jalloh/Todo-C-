@@ -9,6 +9,8 @@ namespace TodoApp.Models
         {
 
         }
-        public DbSet<TodoItem> TodoItems { get; set; }
+        public DbSet<TodoApp.Models.TodoItem> TodoItems { get; set; }
+
+        public DbSet<TodoApp.Models.User> Users { get; set; }
     }
 }

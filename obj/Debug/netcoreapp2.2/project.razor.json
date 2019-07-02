@@ -2941,5 +2941,76 @@
     "CSharpLanguageVersion": 703
   },
   "RootNamespace": "TodoApp",
-  "Documents": []
+  "Documents": [
+    {
+      "FilePath": "Pages/Todo/Create.cshtml",
+      "TargetPath": "Pages/Todo/Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Pages/Privacy.cshtml",
+      "TargetPath": "Pages/Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Pages/_ViewStart.cshtml",
+      "TargetPath": "Pages/_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Pages/Todo/Details.cshtml",
+      "TargetPath": "Pages/Todo/Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Pages/Shared/_Layout.cshtml",
+      "TargetPath": "Pages/Shared/_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Pages/Index.cshtml",
+      "TargetPath": "Pages/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Pages/Shared/_CookieConsentPartial.cshtml",
+      "TargetPath": "Pages/Shared/_CookieConsentPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Pages/Todo/Edit.cshtml",
+      "TargetPath": "Pages/Todo/Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Pages/Todo/Delete.cshtml",
+      "TargetPath": "Pages/Todo/Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Pages/Error.cshtml",
+      "TargetPath": "Pages/Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Pages/_ViewImports.cshtml",
+      "TargetPath": "Pages/_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Pages/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages/_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Pages/Todo/Index.cshtml",
+      "TargetPath": "Pages/Todo/Index.cshtml",
+      "FileKind": "mvc"
+    }
+  ]
 }
